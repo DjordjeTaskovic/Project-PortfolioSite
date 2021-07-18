@@ -204,6 +204,18 @@ let data = [
             "desc":"Desire Meets A New Taste! Sometimes, you're in the mood to do one thing and one thing only: drink.",
             "sidenote":"Theme for this is about a Liquor Store selling customers available products. It was created at may 2021.",
             "link":"http://drink-up-store.epizy.com"
+        },
+    {
+            "id": 11,
+            "image":{
+                "url":"p8_wide.png"
+                "alt":"image"
+            },
+            "title":"Bllissful Blogger",
+            "subtitle":"Web Site Project",
+            "desc":"Submit your ideas, add your opinion on the newest stories on bloger site.Expolre and lear something revolutionary.",
+            "sidenote":"Theme for this is about a Blogger Site designed for blog listing and based on a news oriented site. It was created at may 2021.",
+            "link":"http://arsenal-blogger.epizy.com"
         }
         ]
   ispisProjekata(data);
