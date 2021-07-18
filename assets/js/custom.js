@@ -208,7 +208,7 @@ let data = [
     {
             "id": 11,
             "image":{
-                "url":"p8_wide.png"
+                "url":"p8_wide.png",
                 "alt":"image"
             },
             "title":"Bllissful Blogger",
